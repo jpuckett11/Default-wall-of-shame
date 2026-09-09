@@ -5,13 +5,13 @@ Jay Puckett, Principal Security Researcher
 
 **Bill to:**
 Interstellar Solutions, Inc.
-Attn: Ryan Gesner
-1324 Trotwood Ave, Suite 7
+Attn: Rxxxxxxxr
+xxx Txxxxxood Ave, Suite xxx
 Columbia, TN 38401
-rgesner@isx.help
+xxxxxxxer@isx.help
 
 Invoice no. **OWG-ISX-0001**
-Date: [DATE]
+Date: 15 JUL 2026
 Terms: **Net 15**
 Engagement period: through 2026-06-11
 
